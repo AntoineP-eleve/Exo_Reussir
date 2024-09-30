@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\antoi\\Saved Games\\ConsoleApp1_test\\",
+  "WorkspaceRootPath": "C:\\Users\\aseli\\Projets\\git\\Exo_Reussir\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74EAC3A2-33AC-4F1B-A4C7-3A3F52258011}|ConsoleApp1_test.csproj|c:\\users\\antoi\\saved games\\consoleapp1_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74EAC3A2-33AC-4F1B-A4C7-3A3F52258011}|ConsoleApp1_test.csproj|c:\\users\\aseli\\projets\\git\\exo_reussir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74EAC3A2-33AC-4F1B-A4C7-3A3F52258011}|ConsoleApp1_test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\antoi\\Saved Games\\ConsoleApp1_test\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aseli\\Projets\\git\\Exo_Reussir\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\antoi\\Saved Games\\ConsoleApp1_test\\Program.cs",
+              "ToolTip": "C:\\Users\\aseli\\Projets\\git\\Exo_Reussir\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T15:25:35.591Z",
               "EditorCaption": ""

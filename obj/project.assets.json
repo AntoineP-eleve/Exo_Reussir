@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\antoi\\.nuget\\packages\\": {}
+    "C:\\Users\\aseli\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antoi\\Saved Games\\ConsoleApp1_test\\ConsoleApp1_test.csproj",
+      "projectUniqueName": "C:\\Users\\aseli\\Projets\\git\\Exo_Reussir\\ConsoleApp1_test.csproj",
       "projectName": "ConsoleApp1_test",
-      "projectPath": "C:\\Users\\antoi\\Saved Games\\ConsoleApp1_test\\ConsoleApp1_test.csproj",
-      "packagesPath": "C:\\Users\\antoi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antoi\\Saved Games\\ConsoleApp1_test\\obj\\",
+      "projectPath": "C:\\Users\\aseli\\Projets\\git\\Exo_Reussir\\ConsoleApp1_test.csproj",
+      "packagesPath": "C:\\Users\\aseli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aseli\\Projets\\git\\Exo_Reussir\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\antoi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aseli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
